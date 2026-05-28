@@ -1,11 +1,7 @@
 <div id="header" align="center">
   <img
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxrdDJwOTNnbjAyY29raTk0OWw2dTkzb3U2NHJ5Z2Q3Y3hkNnNsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8pzv881lcpgmkgtNb1/giphy.gif"
-    width="200"
-  />
-    <img
-    src="https://media2.giphy.com/media/FvTiU4YpDE4fs5NulS/giphy.webp?cid=ecf05e4716doq3zi47z9zlco1lmh3ib1ddggy5p5awx9yryj&ep=v1_stickers_related&rid=giphy.webp&ct=s"
-    width="200"
+    width="300"
   />
 
   <div id="gitstatus">
