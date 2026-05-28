@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxrdDJwOTNnbjAyY29raTk0OWw2dTkzb3U2NHJ5Z2Q3Y3hkNnNsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8pzv881lcpgmkgtNb1/giphy.gif"
-    width="300"
+    width="600"
   />
 
   <div id="gitstatus">
